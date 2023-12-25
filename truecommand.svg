@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 62.856298 71.150002"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="truecommand.svg"
+   width="62.8563"
+   height="71.150002"
+   inkscape:version="1.3.1 (91b66b0783, 2023-11-16)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="3.9763849"
+     inkscape:cx="152.02251"
+     inkscape:cy="35.585086"
+     inkscape:window-width="1682"
+     inkscape:window-height="1235"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="full-rgb" />
+  <g
+     id="full-rgb">
+    <g
+       id="logoMark">
+      <polygon
+         id="logoMark_PathItem_"
+         data-name="logoMark &lt;PathItem&gt;"
+         points="51.306,19.963 28.961,9.106 7.388,24.743 10.188,52.475 28.961,61.418 51.306,47.445 "
+         style="fill:#ffffff" />
+      <path
+         id="logoMark_CompoundPathItem_"
+         data-name="logoMark &lt;CompoundPathItem&gt;"
+         d="M 51.304,47.4432 32.5383,58.2687 H 28.9578 L 10.1922,47.4328 V 25.7716 L 11.9771,22.6682 28.9578,12.87 h 3.5805 l 16.97,9.798 1.7956,3.1034 V 25.1589 L 62.8563,18.4852 30.8051,0 0,17.78 V 53.36 L 30.8051,71.15 62.5346,52.83 51.304,44.63 Z"
+         style="fill:#0095d5" />
+      <polygon
+         id="logoMark_PathItem_2"
+         data-name="logoMark &lt;PathItem&gt;"
+         points="30.816,33.504 23.218,29.124 30.816,24.744 38.403,29.124 "
+         style="fill:#aeadae" />
+      <path
+         id="logoMark_CompoundPathItem_2"
+         data-name="logoMark &lt;CompoundPathItem&gt;"
+         d="M 32.5387,49.519 51.3043,38.6832 V 34.542 L 32.5387,45.3674 Z m 16.97,-26.8508 -7.5873,4.39 -8.9571,-5.1792 -0.4257,-0.2387 v 4.1 l 5.8641,3.3836 -5.8641,3.3837 v 4.1 l 18.7657,-10.836 z m -39.3162,16.015 8.4691,4.8886 0.0416,0.0208 10.255,5.9264 V 45.3674 L 10.1925,34.5316 Z m 9.3722,-11.6246 -7.5872,-4.39 -1.785,3.1034 8.4691,4.8989 0.0416,0.0208 10.255,5.9161 v -4.1729 l -5.74,-3.3109 5.74,-3.3109 v -4.1724 l -0.6959,0.4047 z"
+         style="fill:#0095d5" />
+      <polygon
+         id="logoMark_PathItem_3"
+         data-name="logoMark &lt;PathItem&gt;"
+         points="32.539,12.87 32.539,25.74 30.816,24.744 28.958,25.813 28.958,12.87 "
+         style="fill:#0095d5" />
+      <polygon
+         id="logoMark_PathItem_4"
+         data-name="logoMark &lt;PathItem&gt;"
+         points="32.539,32.508 32.539,58.269 28.958,58.269 28.958,32.435 30.816,33.504 "
+         style="fill:#0095d5" />
+      <polygon
+         id="logoMark_PathItem_5"
+         data-name="logoMark &lt;PathItem&gt;"
+         points="49.509,22.668 51.304,25.159 62.856,18.485 30.805,0 0,17.78 11.977,22.668 28.958,12.87 32.539,12.87 "
+         style="fill:#31beec" />
+      <polygon
+         id="logoMark_PathItem_6"
+         data-name="logoMark &lt;PathItem&gt;"
+         points="0,53.359 10.192,47.433 10.192,25.772 11.977,22.668 0,17.78 "
+         style="fill:#31beec" />
+    </g>
+  </g>
+</svg>
