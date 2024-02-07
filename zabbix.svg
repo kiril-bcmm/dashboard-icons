@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   width="68"
-   height="68"
+   width="66"
+   height="66"
    version="1.1"
    id="svg2"
-   sodipodi:docname="zabbix-2.svg"
-   viewBox="-2 -2 68 68"
+   sodipodi:docname="zabbix.svg"
+   viewBox="-3 -3 66 65.999999"
    inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -76,8 +76,8 @@
      inkscape:deskcolor="#d1d1d1"
      showborder="true"
      inkscape:zoom="9.7669124"
-     inkscape:cx="15.562748"
-     inkscape:cy="33.685159"
+     inkscape:cx="13.515018"
+     inkscape:cy="31.637429"
      inkscape:window-width="1920"
      inkscape:window-height="1080"
      inkscape:window-x="0"
@@ -89,9 +89,10 @@
      fill="#d31f26"
      id="path1"
      inkscape:path-effect="#path-effect9"
-     inkscape:original-d="M 0,0 H 64 V 64 H 0 Z" />
+     inkscape:original-d="M 0,0 H 64 V 64 H 0 Z"
+     transform="translate(-2,-2)" />
   <path
-     d="m 18.8,15.382 h 26.393 v 3.424 l -21.24,26.027 h 21.744 v 3.784 H 18.293 v -3.43 l 21.24,-26.02 H 18.8 Z"
+     d="m 16.8,13.382 h 26.393 v 3.424 l -21.24,26.027 h 21.744 v 3.784 H 16.293 v -3.43 l 21.24,-26.02 H 16.8 Z"
      fill="#ffffff"
      id="path2" />
 </svg>
